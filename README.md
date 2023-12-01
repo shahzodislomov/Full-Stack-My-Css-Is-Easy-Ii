@@ -46,10 +46,14 @@ Google: Css tutorial :D</p>
 <h4>Annex: Static Html Page Renderer</h4>
 <p>How to have a <code>static html page renderer</code> inside Docode:</p>
 <p>0# Open your HTML file:
+  
 <img src="https://storage.googleapis.com/qwasar-public/track-web/docode_web_mini_browser_1.png" width="60%"></p>
 <p>1# Click on the web preview button:
+  
 <img src="https://storage.googleapis.com/qwasar-public/track-web/docode_web_mini_browser_2.png" width="60%"></p>
+
 <p>2# You can preview your html:
+  
 <img src="https://storage.googleapis.com/qwasar-public/track-web/docode_web_mini_browser_3.png" width="60%"></p>
 
 <p></p>
