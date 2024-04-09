@@ -1,0 +1,17 @@
+#header {
+    background-color: rgba(255, 166, 0, 0.861);
+}
+#main {
+    background-color: rgb(0, 123, 255);
+}
+#sidebar {
+    background-color: rgb(226, 81, 81);
+}
+#footer {
+    background-color: rgb(0, 255, 0);
+}
+#header,#main,#sidebar,#footer,h1 {
+    color: white;
+    font-size: 10px;
+    font-weight: lighter;
+}
